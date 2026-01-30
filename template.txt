@@ -1,0 +1,1445 @@
+                <div class="pub-card" data-topic="generative-model" data-year="2023" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/3D-LLM.gif" width="100%" playsinline autoplay muted loop preload/>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body move-down">
+                                <h5 class="title">3D-LLM: Injecting the 3D World into Large Language Models</h5>
+                                <h6 class="authors">
+                                    <a href="https://evelinehong.github.io/">Yining Hong</a>,
+                                    <a href="https://haoyuzhen.com/">Haoyu Zhen</a>,
+                                    <a href="https://scholar.google.com/citations?user=KkpEXpsAAAAJ&hl=en">Peihao Chen</a>,
+                                    <a href="https://zsh2000.github.io/">Shuhong Zheng</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="https://zfchenunique.github.io/">Zhenfang Chen</a>,
+                                    <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://nips.cc/Conferences/2023" class="conference">NeurIPS 2023</a> 
+                                    <span class="highlight">(Spotlight)</span>  /
+                                    <a href="https://vis-www.cs.umass.edu/3dllm/">Website</a> /
+                                    <a href="https://arxiv.org/abs/2307.12981">Paper</a> /
+                                    <a href="https://github.com/UMass-Foundation-Model/3D-LLM">Code</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="perception" data-year="2023" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/flowcam.png" width="100%" playsinline autoplay muted loop preload/>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">FlowCam: Training Generalizable 3D Radiance Fields without Camera Poses via Pixel-Aligned Scene Flow</h5>
+                                <h6 class="authors">
+                                    <a href="https://cameronosmith.github.io/">Cameron Smith</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="https://ayushtewari.com/">Ayush Tewari</a>,
+                                    <a href="https://www.vincentsitzmann.com/">Vincent Sitzmann</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://nips.cc/Conferences/2023" class="conference">NeurIPS 2023</a> /
+                                    <a href="https://cameronosmith.github.io/flowcam/">Website</a> /
+                                    <a href="https://arxiv.org/abs/2306.00180">Paper</a> /
+                                    <a href="https://github.com/cameronosmith/FlowCam">Code</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                                
+                
+                <div class="pub-card" data-topic="generative-model" data-year="2023" data-selected="true">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <video src="data/projects/unipi.mp4" width="100%" playsinline autoplay muted loop preload/>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body move-up">
+                                <h5 class="title">Learning Universal Policies via Text-Guided Video Generation</h5>
+                                <h6 class="authors">
+                                    <u>Yilun Du*</u>,
+                                    <a href="https://sherryy.github.io/">Mengjiao Yang*</a>,
+                                    <a href="https://sites.google.com/site/daibohr/">Bo Dai</a>,
+                                    <a href="https://hanjun-dai.github.io/">Hanjun Dai</a>,
+                                    <a href="https://scholar.google.com/citations?user=c-zlbwmaaaaj&hl=en">Ofir Nachum</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a href="http://webdocs.cs.ualberta.ca/~dale/">Dale Schuurmans</a>,
+                                    <a href="http://people.eecs.berkeley.edu/~pabbeel/">Pieter Abbeel</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://nips.cc/Conferences/2023" class="conference">NeurIPS 2023</a> 
+                                    <span class="highlight">(Spotlight)</span>  /
+                                    <a href="https://universal-policy.github.io/unipi/">Website</a> /
+                                    <a href="https://arxiv.org/abs/2302.00111">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2023" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/corl23packing.gif" width="100%" playsinline autoplay muted loop preload/>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Compositional Diffusion-Based Continuous Constraint Solvers</h5>
+                                <h6 class="authors">
+                                    <a href="https://zt-yang.com/">Zhutian Yang</a>,
+                                    <a href="https://jiayuanm.com/">Jiayuan Mao</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="http://jiajunwu.com">Jiajun Wu</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a href="https://people.csail.mit.edu/tlp/">Tomas Lozano-Perez</a>,
+                                    <a href="https://people.csail.mit.edu/lpk/">Leslie Kaelbling</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://corl2023.org/" class="conference">CoRL 2023</a> /
+                                    <a href="https://diffusion-ccsp.github.io/">Website</a> /
+                                    <a href="https://arxiv.org/abs/2309.00966">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2023" data-selected="true">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <video src="data/projects/unsup_discovery.m4v" width="100%" playsinline autoplay muted loop preload/>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models</h5>
+                                <h6 class="authors">
+                                    <a href="https://nanliu.io/">Nan Liu*</a>,
+                                    <u>Yilun Du*</u>,
+                                    <a href="http://www.mit.edu/~lishuang/">Shuang Li*</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a>
+                                </h6>
+                                <p class="info">
+                                    <span class="conference">ICCV 2023</span> /
+                                    <a href="https://energy-based-model.github.io/unsupervised-concept-discovery/">Website</a> /
+                                    <a href="https://arxiv.org/abs/2306.05357">Paper</a> /
+                                    <a href="https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery">Code</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2023" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/fmdm.png" width="100%"/>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body move-up">
+                                <h5 class="title">Foundation Models for Decision Making: Problems, Methods, and Opportunities</h5>
+                                <h6 class="authors">
+                                    <a href="https://sherryy.github.io/">Mengjiao Yang</a>,
+                                    <a href="https://scholar.google.com/citations?user=c-zlbwmaaaaj&hl=en">Ofir Nachum</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="">Jason Wei</a>,
+                                    <a href="http://people.eecs.berkeley.edu/~pabbeel/">Pieter Abbeel</a>,
+                                    <a href="http://webdocs.cs.ualberta.ca/~dale/">Dale Schuurmans</a>
+                                </h6>
+                                <p class="info">
+                                    <span class="conference">ArXiv Preprint</span> /
+                                    <a href="https://arxiv.org/abs/2303.04129">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2023" data-selected="true">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <video src="data/projects/reduce_reuse_recycle.mp4" width="100%" playsinline autoplay muted loop preload/>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body move-up">
+                                <h5 class="title">Reduce, Reuse, Recycle: Compositional Generation with Energy-Based Diffusion Models and MCMC</h5>
+                                <h6 class="authors">
+                                    <u>Yilun Du</u>,
+                                    <a href="https://conormdurkan.github.io/">Conor Durkan</a>,
+                                    <a href="https://rstrudel.github.io/">Robin Strudel</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a href="https://benanne.github.io/about/">Sander Dieleman</a>,
+                                    <a href="https://scholar.google.com/citations?user=GgQ9GEkAAAAJ&hl=en">Rob Fergus</a>,
+                                    <a href="http://www.sohldickstein.com/">Jascha Sohl-Dickstein</a>,
+                                    <a href="https://www.stats.ox.ac.uk/~doucet/">Arnaud Doucet</a>,
+                                    <a href="http://www.cs.toronto.edu/~wgrathwohl/">Will Grathwohl</a>
+                                </h6>
+                                <p class="info">
+                                    <span href="https://icml.cc/Conferences/2023/CallForPapers" class="conference">ICML 2023</span> /
+                                    <a href="https://energy-based-model.github.io/reduce-reuse-recycle/">Website</a> /
+                                    <a href="https://colab.research.google.com/drive/1jvlzWMc6oo-TH1fYMl6hsOYfrcQj2rEs?usp=sharing">Colab</a> /
+                                    <a href="https://colab.research.google.com/github/yilundu/reduce_reuse_recycle/blob/main/notebooks/image_tapestry.ipynb">Tapestry Colab</a> /
+                                    <a href="https://github.com/yilundu/reduce_reuse_recycle">Code</a> /
+                                    <a href="https://arxiv.org/abs/2302.11552">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2023" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/relational_potentials.png" width="100%" playsinline autoplay muted loop preload/>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Inferring Relational Potentials in Interacting Systems</h5>
+                                <h6 class="authors">
+                                    <a href="https://www.linkedin.com/in/armandcomas/">Armand Comas</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="">Christian Fernandez</a>,
+                                    <a href="https://sandeshgh.com/">Sandesh Ghimire</a>,
+                                    <a href="https://coe.northeastern.edu/people/sznaier-mario/">Mario Sznaier</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a href="https://coe.northeastern.edu/people/camps-octavia/">Octavia Camps</a>
+                                </h6>
+                                <p class="info">
+                                    <span href="https://icml.cc/Conferences/2023/CallForPapers" class="conference">ICML 2023</span> 
+                                    <span class="highlight">(Oral)</span> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="perception" data-year="2023" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/neuse.png" width="100%"/>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body move-up">
+                                <h5 class="title">NeuSE: Neural SE(3)-Equivariant Embedding for Consistent Spatial Understanding with Objects</h5>
+                                <h6 class="authors">
+                                    <a href="https://scholar.google.com/citations?user=-FqjG8kAAAAJ&hl=en">Jiahui Fu</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="https://www.linkedin.com/in/kurran-singh/">Kurran Singh</a>,
+                                    <a href="https://mitibmwatsonailab.mit.edu/people/joshua-tenenbaum/">Joshua B. Tenenbaum</a>,
+                                    <a href="https://www.csail.mit.edu/person/john-leonard">John J. Leonard</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://roboticsconference.org/" class="conference">RSS 2023</a> /
+                                    <a href="https://sites.google.com/view/rap4robots" class="conference">ICRA 2023 RAP4Robots Workshop</a>
+                                    <span class="highlight">(Outstanding Paper Award)</span> /
+                                    <a href="https://neuse-slam.github.io/neuse/">Website</a> /
+                                    <a href="https://arxiv.org/abs/2303.07308">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2023" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/structdiffusion.gif" width="100%"/>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body move-down">
+                                <h5 class="title">StructDiffusion: Language-Guided Creation of Physically-Valid Structures using Unseen Objects</h5>
+                                <h6 class="authors">
+                                    <a href="http://weiyuliu.com/">Weiyu Liu</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="https://robot-learning.cs.utah.edu/thermans">Tucker Hermans</a>,
+                                    <a href="https://faculty.cc.gatech.edu/~chernova/">Sonia Chernova</a>,
+                                    <a href="https://cpaxton.github.io/about/">Chris Paxton</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://roboticsconference.org/" class="conference">RSS 2023</a> /
+                                    <a href="https://structdiffusion.github.io/">Website</a> /
+                                    <a href="https://arxiv.org/abs/2211.04604">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2023" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/diffusion.gif" width="100%"/>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body move-up">
+                                <h5 class="title">Diffusion Policy: Visuomotor Policy Learning via Action Diffusion</h5>
+                                <h6 class="authors">
+                                    <a href="https://cheng-chi.github.io/">Cheng Chi</a>,
+                                    <a href="https://www.cs.cmu.edu/~sfeng/">Siyuan Feng</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="https://www.zhenjiaxu.com/">Zhenjia Xu</a>,
+                                    <a href="https://www.eacousineau.com/">Eric Cousineau</a>,
+                                    <a href="http://www.benburchfiel.com/">Benjamin Burchfiel</a>,
+                                    <a href="https://www.cs.columbia.edu/~shurans/">Shuran Song</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://roboticsconference.org/" class="conference">RSS 2023</a> /
+                                    <a href="https://diffusion-policy.cs.columbia.edu/">Website</a> /
+                                    <a href="https://github.com/columbia-ai-robotics/diffusion_policy">Code</a> /
+                                    <a href="https://arxiv.org/abs/2303.04137">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="perception" data-year="2023" data-selected="true">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/wide_baseline.gif" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Learning to Render Novel Views from Wide-Baseline Stereo Pairs</h5>
+                                <h6 class="authors">
+                                    <u>Yilun Du</u>,
+                                    <a href="https://scholar.google.com/citations?user=zrZNo3wAAAAJ&hl=en&oi=sra">Cameron Smith</a>,
+                                    <a href="https://ayushtewari.com/">Ayush Tewari<sup>†</sup></a>,
+                                    <a href="https://www.vincentsitzmann.com/">Vincent Sitzmann<sup>†</sup></a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://cvpr2023.thecvf.com/" class="conference">CVPR 2023</a> /
+                                    <a href="https://yilundu.github.io/wide_baseline/">Website</a> /
+                                    <a href="https://github.com/yilundu/cross_attention_renderer">Code</a> /
+                                    <a href="https://colab.research.google.com/drive/1PeL5oJ_eraLEdzTEVPLBwoM2pyv26WcU?usp=sharing">Colab</a> /
+                                    <a href="https://arxiv.org/abs/2304.08463">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="perception" data-year="2023" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/3dclr.gif" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body move-up">
+                                <h5 class="title">3D Concept Learning and Reasoning from Multi-View Images</h5>
+                                <h6 class="authors">
+                                    <a href="https://evelinehong.github.io/">Yining Hong</a>,
+                                    <a href="https://xhrlyb.github.io/">Chunru Lin</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="https://zfchenunique.github.io/">Zhenfang Chen</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://cvpr2023.thecvf.com/" class="conference">CVPR 2023</a> /
+                                    <a href="https://vis-www.cs.umass.edu/3d-clr/">Website</a> /
+                                    <a href="https://arxiv.org/abs/2303.11327">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2023" data-selected="true">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/dd.png" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body move-up">
+                                <h5 class="title">Is Conditional Generative Modeling all You Need for Decision-Making?</h5>
+                                <h6 class="authors">
+                                    <a href="https://anuragajay.github.io/">Anurag Ajay*</a>,
+                                    <u>Yilun Du*</u>,
+                                    <a href="https://scholar.google.com/citations?user=ynyPc1kAAAAJ&hl=en">Ahbi Gupta*</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a href="http://people.csail.mit.edu/tommi/">Tommi S. Jaakkola</a>,
+                                    <a href="https://people.csail.mit.edu/pulkitag/">Pulkit Agrawal</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://iclr.cc/Conferences/2023" class="conference">ICLR 2023</a>
+                                    <span class="highlight">(Top 5% Notable)</span> /
+                                    <a href="https://anuragajay.github.io/decision-diffuser/">Website</a> /
+                                    <a href="https://arxiv.org/pdf/2211.15657.pdf">Paper</a> /
+                                    <a href="https://github.com/anuragajay/decision-diffuser/tree/main/code">Code</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2023" data-selected="true">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/concensus.png" width="100%"/>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Composing Ensembles of Pre-trained Models via Iterative Consensus</h5>
+                                <h6 class="authors">
+                                    <a href="http://www.mit.edu/~lishuang/">Shuang Li*</a>,
+                                    <u>Yilun Du*</u>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a>,
+                                    <a>Igor Mordatch</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://iclr.cc/Conferences/2021" class="conference">ICLR 2023</a> /
+                                    <a href="https://energy-based-model.github.io/composing-pretrained-models-web/">Website</a> /
+                                    <a href="https://arxiv.org/abs/2210.11522">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2023" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/leap.png" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body move-down">
+                                <h5 class="title">Planning with Sequence Models through Iterative Energy Minimization</h5>
+                                <h6 class="authors">
+                                    <a href="https://hychen-naza.github.io/">Hongyi Chen*</a>,
+                                    <u>Yilun Du*</u>,
+                                    <a href="https://yiyechen.github.io/">Yiye Chen*</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a href="https://ece.gatech.edu/directory/patricio-antonio-vela">Patricio Antonio Vela</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://iclr.cc/Conferences/2023" class="conference">ICLR 2023</a> /
+                                    <a href="https://hychen-naza.github.io/projects/LEAP/index.html">Website</a> /
+                                    <a href="https://openreview.net/forum?id=cVFD6qE8gnY">Paper</a> /
+                                    <a href="https://github.com/hychen-naza/LEAP">Code</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="perception" data-year="2023" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/seeing3d.gif" width="100%"/>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Seeing 3D Objects in a Single Image via Self-Supervised Static-Dynamic Disentanglement</h5>
+                                <h6 class="authors">
+                                    <a href="https://prafullsharma.net/">Prafull Sharma</a>,
+                                    <a href="https://ayushtewari.com/">Ayush Tewari</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="https://zakharos.github.io/">Sergey Zakharov</a>,
+                                    <a href="https://scholar.google.se/citations?user=2xjjS3oAAAAJ&hl=en">Rares Ambrus</a>,
+                                    <a href="https://adriengaidon.com/">Adrien Gaidon</a>,
+                                    <a href="https://billf.mit.edu/">William T. Freeman</a>,
+                                    <a href="http://people.csail.mit.edu/fredo/">Fredo Durand</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a href="https://vsitzmann.github.io/">Vincent Sitzmann</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://iclr.cc/Conferences/2021" class="conference">ICLR 2023</a> /
+                                    <a href="https://prafullsharma.net/see3d/">Website</a> /
+                                    <a href="https://prafullsharma.net/see3d/paper.pdf">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="perception" data-year="2023" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/lndf.gif" width="100%"/>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Local Neural Descriptor Fields: Locally Conditioned Object Representations for Manipulation</h5>
+                                <h6 class="authors">
+                                    <a href="https://elchun.github.io/">Ethan Chun</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="https://anthonysimeonov.github.io/">Anthony Simeonov</a>,
+                                    <a href="https://people.csail.mit.edu/tlp/">Tomas Lozano-Perez</a>,
+                                    <a href="https://people.csail.mit.edu/lpk/">Leslie Kaelbling</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://iclr.cc/Conferences/2021" class="conference">ICRA 2023</a> /
+                                    <a href="https://arxiv.org/abs/2302.03573">Paper</a> /
+                                    <a href="https://elchun.github.io/lndf/">Website</a> /
+                                    <a href="https://github.com/elchun/lndf_robot">Code</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="perception" data-year="2023" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/move.gif" width="100%"/>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Visiblity-Aware Navigation Among Movable Objects</h5>
+                                <h6 class="authors">
+                                    <a href="https://www.linkedin.com/in/jose-muguira-iturralde-7b9a83136/">Jose Iturralde*</a>,
+                                    <a href="https://aidanreececurtis.com/">Aiden Curtis*</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="https://people.csail.mit.edu/lpk/">Leslie Kaelbling</a>,
+                                    <a href="https://people.csail.mit.edu/tlp/">Tomas Lozano-Perez</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://iclr.cc/Conferences/2021" class="conference">ICRA 2023</a> /
+                                    <a href="https://arxiv.org/abs/2212.02671">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2022" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/lm_design.png" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body move-up">
+                                <h5 class="title">Language Models Generalize Beyond Natural Proteins</h5>
+                                <h6 class="authors">
+                                    <a href="">Robert Verkuil*</a>,
+                                    <a href="">Ori Kabeli*</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="">Basile Wicky</a>,
+                                    <a href="">Lukas Milles</a>,
+                                    <a href="">Justas Dauparas</a>,
+                                    <a href="">David Baker</a>,
+                                    <a href="">Sergey Ovchinnikov</a>,
+                                    <a href="">Tom Sercu</a>,
+                                    <a href="">Alexander Rives</a>
+                                </h6>
+                                <p class="info">
+                                    <span class="conference">bioRxiv Preprint</span> /
+                                    <a href="https://www.biorxiv.org/content/10.1101/2022.12.21.521521v1">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2022" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <div class="move-down">
+                                <img src="data/projects/22_sed.png" width="100%" />
+                            </div>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Self-conditioned Embedding Diffusion for Text Generation</h5>
+                                <h6 class="authors">
+                                    <a href="">Robin Strudel</a>,
+                                    <a href="">Corentin Tallec</a>,
+                                    <a href="">Florent Altche</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="">Yaroslav Ganin</a>,
+                                    <a href="">Arthur Mensch</a>,
+                                    <a href="">Will Grathwohl</a>,
+                                    <a href="">Nikolay Savinov</a>,
+                                    <a href="">Sander Dieleman</a>,
+                                    <a href="">Laurent Sifre</a>,
+                                    <a href="">Remi Lebond</a>
+                                </h6>
+                                <p class="info">
+                                    <span class="conference">ArXiv Preprint</span> /
+                                    <a href="https://arxiv.org/abs/2211.04236">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="perception" data-year="2022" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/rndf_bowl_bottle.gif" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">SE(3)-Equivariant Relational Rearrangement with Neural Descriptor Fields</h5>
+                                <h6 class="authors">
+                                    <a href="https://anthonysimeonov.github.io/">Anthony Simeonov*</a>,
+                                    <u>Yilun Du*</u>,
+                                    <a href="https://yenchenlin.me/">Yen-Chen Lin</a>,
+                                    <a href="https://mcube.mit.edu/">Alberto Rodriguez</a>,
+                                    <a href="https://people.csail.mit.edu/lpk/">Leslie Kaelbling</a>,
+                                    <a href="https://people.csail.mit.edu/tlp/">Tomas Lozano-Perez</a>,
+                                    <a href="https://people.csail.mit.edu/pulkitag/">Pulkit Agrawal</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://corl2022.org/" class="conference">CoRL 2022</a> /
+                                    <a href="https://anthonysimeonov.github.io/r-ndf/">Website</a> /
+                                    <a href="https://arxiv.org/abs/2211.09786">Paper</a> /
+                                    <a href="https://github.com/anthonysimeonov/relational_ndf">Code</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="perception" data-year="2022" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/MIRA_03.png" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">MIRA: Mental Imagery for Robotic Affordances</h5>
+                                <h6 class="authors">
+                                    <a href="https://anthonysimeonov.github.io/">Yen-Chen Lin</a>,
+                                    <a href="https://www.peteflorence.com/">Pete Florence</a>,
+                                    <a href="https://www.peteflorence.com/">Andy Zheng</a>,
+                                    <a href="https://jonbarron.info/">Johnathon T. Barron</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="https://people.csail.mit.edu/weichium/">Wei-Chiu Ma</a>,
+                                    <a href="https://anthonysimeonov.github.io/">Anthony Simeonov</a>,
+                                    <a href="https://mcube.mit.edu/">Alberto Rodriguez</a>,
+                                    <a href="http://web.mit.edu/phillipi/">Phillip Isola</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://corl2022.org/" class="conference">CoRL 2022</a> /
+                                    <a href="https://openreview.net/forum?id=AmPeAFzU3a4">Paper</a>/
+                                    <a href="https://yenchenlin.me/mira/">Website</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="perception" data-year="2022" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/naf.gif" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Learning Neural Acoustic Fields</h5>
+                                <h6 class="authors">
+                                    <a href="https://github.com/aluo-x/">Andrew Luo</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="https://sites.google.com/andrew.cmu.edu/tarrlab/people/michael-j-tarr">Michael J. Tarr</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a>,
+                                    <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://nips.cc/Conferences/2022" class="conference">NeurIPS 2022</a> /
+                                    <a href="https://www.andrew.cmu.edu/user/afluo/Neural_Acoustic_Fields/">Website</a> /
+                                    <a href="https://arxiv.org/abs/2204.00628">Paper</a> /
+                                    <a href="https://github.com/aluo-x/Learning_Neural_Acoustic_Fields">Code</a>  /
+                                    <a href="https://colab.research.google.com/drive/1C1qyOMFUBlrdEiaWJQ_1Zi5UDHvWumyk?usp=sharing">Colab</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="perception" data-year="2022" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/3dcg.png" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">3D Concept Grounding on Neural Fields</h5>
+                                <h6 class="authors">
+                                    <a href="https://evelinehong.github.io/">Yining Hong</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="">Chunru Lin</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://nips.cc/Conferences/2022" class="conference">NeurIPS 2022</a> /
+                                    <a href="http://3d-cg.csail.mit.edu/">Website</a> /
+                                    <a href="https://arxiv.org/abs/2207.06403">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2022" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/lm.gif" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body move-up">
+                                <h5 class="title">Pre-Trained Language Models for Interactive Decision-Making</h5>
+                                <h6 class="authors">
+                                    <a href="">Shuang Li</a>,
+                                    <a href="">Xavier Puig</a>,
+                                    <a href="">Chris Paxton</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="">Clinton Wang</a>,
+                                    <a href="">Linxi Fan</a>,
+                                    <a href="">Tao Chen</a>,
+                                    <a href="">De-An Huang</a>,
+                                    <a href="">Ekin Akyurek</a>,
+                                    <a href="">Anima Anandkumar<sup>+</sup></a>,
+                                    <a href="">Jacob Andreas<sup>+</sup></a>,
+                                    <a href="">Igor Mordatch<sup>+</sup></a>,
+                                    <a href="">Antonio Torralba<sup>+</sup></a>,
+                                    <a href="">Yuke Zhu<sup>+</sup></a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://nips.cc/Conferences/2022" class="conference">NeurIPS 2022</a>
+                                    <span class="highlight">(Oral)</span> /
+                                    <a href="https://shuangli-project.github.io/Pre-Trained-Language-Models-for-Interactive-Decision-Making/">Website</a> /
+                                    <a href="https://arxiv.org/abs/2202.01771">Paper</a> /
+                                    <a href="https://github.com/ShuangLI59/Pre-Trained-Language-Models-for-Interactive-Decision-Making">Code</a> 
+                                </p>
+                                <span class="note">(Last five authors contributed equally; order determined by alphabetically.)</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2022" data-selected="true">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <video src="data/projects/teaser_glide.mp4" width="100%" playsinline autoplay muted loop preload/>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Compositional Visual Generation with Composable Diffusion Models</h5>
+                                <h6 class="authors">
+                                    <a href="https://nanliu.io/">Nan Liu*</a>,
+                                    <a href="http://www.mit.edu/~lishuang/">Shuang Li*</a>,
+                                    <u>Yilun Du*</u>,
+                                    <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://eccv2022.ecva.net/" class="conference">ECCV 2022</a>  /
+                                    <a href="https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/">Website</a> /
+                                    <a href="https://arxiv.org/pdf/2206.01714.pdf">Paper</a> /
+                                    <a href="https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch">Code</a>  /
+                                    <a href="https://colab.research.google.com/github/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch/blob/main/notebooks/demo.ipynb">Colab</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="perception" data-year="2022" data-selected="true">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/dafnet2.png" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Learning Object Based State Estimators for Household Autonomy</h5>
+                                <h6 class="authors">
+                                    <u>Yilun Du</u>,
+                                    <a href="https://people.csail.mit.edu/tlp/">Tomas Lozano-Perez</a>,
+                                    <a href="https://people.csail.mit.edu/lpk/">Leslie Kaelbling</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://iros2022.org/" class="conference">IROS 2022</a> /
+                                    <a href="https://yilundu.github.io/obm">Website</a> /
+                                    <a href="https://arxiv.org/pdf/2011.03183.pdf">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="perception" data-year="2022" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/ndf_change.png" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Robust Change Detection Based on Neural Descriptor Fields</h5>
+                                <h6 class="authors">
+                                    <a href="https://scholar.google.com/citations?user=-FqjG8kAAAAJ&hl=en">Jiahui Fu</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="https://www.linkedin.com/in/kurran-singh/">Kurran Singh</a>,
+                                    <a href="https://mitibmwatsonailab.mit.edu/people/joshua-tenenbaum/">Joshua B. Tenenbaum</a>,
+                                    <a href="https://www.csail.mit.edu/person/john-leonard">John J. Leonard</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://iros2022.org/" class="conference">IROS 2022</a> /
+                                    <a href="https://yilundu.github.io/ndf_change">Website</a> /
+                                    <a href="https://arxiv.org/abs/2208.01014">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2022" data-selected="true">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <video src="data/projects/diffuser.mp4" width="100%" playsinline autoplay muted loop preload/>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body move-up">
+                                <h5 class="title">Planning with Diffusion for Flexible Behavior Synthesis</h5>
+                                <h6 class="authors">
+                                    <a href="https://jannerm.github.io/">Michael Janner*</a>,
+                                    <u>Yilun Du*</u>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a href="http://rail.eecs.berkeley.edu/index.html">Sergey Levine</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://icml.cc/Conferences/2022/CallForPapers" class="conference">ICML 2022</a> 
+                                    <span class="highlight">(Long Talk)</span> /
+                                    <a href="https://diffusion-planning.github.io/">Website</a> /
+                                    <a href="https://arxiv.org/abs/2205.09991">Paper</a> /
+                                    <a href="https://github.com/jannerm/diffuser">Code</a>  /
+                                    <a href="https://colab.research.google.com/drive/1YajKhu-CUIGBJeQPehjVPJcK_b38a8Nc?usp=sharing">Colab</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2022" data-selected="true">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <video src="data/projects/irem.mp4" width="100%" playsinline autoplay muted loop preload/>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Learning Iterative Reasoning through Energy Minimization</h5>
+                                <h6 class="authors">
+                                    <u>Yilun Du</u>,
+                                    <a href="http://www.mit.edu/~lishuang/">Shuang Li</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a>Igor Mordatch</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://icml.cc/Conferences/2022/CallForPapers" class="conference">ICML 2022</a> /
+                                    <a href="https://energy-based-model.github.io/iterative-reasoning-as-energy-minimization/">Website</a> /
+                                    <a href="https://arxiv.org/abs/2206.15448">Paper</a> /
+                                    <a href="https://github.com/yilundu/irem_code_release">Code</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2022" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/infinite_feature_2.png" width="100%"/>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Streaming Inference for Infinite Feature Models</h5>
+                                <h6 class="authors">
+                                    <a href="http://rylanschaeffer.github.io/">Rylan Schaeffer</a>,
+                                    <u>Yilun Du</u>,
+                                    <a>Gabrielle Liu</a>,
+                                    <a href="https://fietelab.mit.edu/">Ila Fiete</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://icml.cc/Conferences/2022/CallForPapers" class="conference">ICML 2022</a> /
+                                    <a href="https://proceedings.mlr.press/v162/schaeffer22a.html">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                <div class="pub-card" data-topic="generative-model" data-year="2022" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/continual2.png" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Energy-Based Models for Continual Learning</h5>
+                                <h6 class="authors">
+                                    <a href="http://www.mit.edu/~lishuang/">Shuang Li</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="">Gido M. van de Ven</a>,
+                                    <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a>,
+                                    <a>Igor Mordatch</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://lifelong-ml.cc/" class="conference">CoLLA 2022</a> 
+                                    <span class="highlight">(Oral)</span> /
+                                    <a href="https://arxiv.org/pdf/2011.12216.pdf">Paper</a> /
+                                    <a href="https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/">Project Page</a> /
+                                    <a href="https://github.com/ShuangLI59/ebm-continual-learning">Code</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2022" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/infinite_clustering.png" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Streaming Inference for Infinite Non-Stationary Clustering</h5>
+                                <h6 class="authors">
+                                    <a href="http://rylanschaeffer.github.io/">Rylan Schaeffer</a>,
+                                    <a>Gabrielle Liu</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="https://web.stanford.edu/~swl1/">Scott Linderman</a>,
+                                    <a href="https://fietelab.mit.edu/">Ila Fiete</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://lifelong-ml.cc/" class="conference">CoLLA 2022</a> /
+                                    <a href="https://arxiv.org/abs/2205.01212">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="perception" data-year="2022" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/kubric.gif" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body move-up">
+                                <h5 class="title">Kubric: A Scalable Dataset Generator </h5>
+                                <h6 class="authors">
+                                    <a href="">Klaus Greff</a>,
+                                    <a href="">Francois Belleetti</a>,
+                                    <a href="">Lucas Beyer</a>,
+                                    <a href="">Carl Doersch</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="">Daniel Duckworth</a>,
+                                    <a href="">David J. Fleet</a>,
+                                    <a href="">Dan Gnanapragasam</a>,
+                                    <a href="">Florian Golemo</a>,
+                                    <a href="">Charles Herrmann</a>,
+                                    <a href="">Thomas Kipf</a>,
+                                    <a href="">Abhijit Kundu</a>,
+                                    <a href="">Dmitry Lagun</a>,
+                                    <a href="">issam Laradji</a>,
+                                    <a href="">Derek Liu</a>,
+                                    <a href="">Hinning Meyer</a>,
+                                    <a href="">Yishu Miao</a>,
+                                    <a href="">Derek Nowrouzezahrai</a>,
+                                    <a href="">Cengiz Oztireli</a>,
+                                    <a href="">Etienne Pot</a>,
+                                    <a href="">Noha Radwan</a>,
+                                    <a href="">Daniel Rebain</a>,
+                                    <a href="">Sara Sabour</a>,
+                                    <a href="">Mehdi Sajjadi</a>,
+                                    <a href="">Matan Sela</a>,
+                                    <a href="">Vincent Sitzmann</a>,
+                                    <a href="">Austin Stone</a>,
+                                    <a href="">Deqing Sun</a>,
+                                    <a href="">Suhani Vora</a>,
+                                    <a href="">Ziyu Wang</a>,
+                                    <a href="">Tianhao Wu</a>,
+                                    <a href="">Kwang Moo Yi</a>,
+                                    <a href="">Fangcheng Zhong</a>,
+                                    <a href="">Andrea Tagliasacchi</a>
+                                </h6>
+                                <p class="info">
+                                    <span href="https://cvpr2022.thecvf.com/" class="conference">CVPR 2022 </span> /
+                                    <a href="https://kubric.readthedocs.io/en/latest/">Website</a> /
+                                    <a href="https://arxiv.org/pdf/2203.03570.pdf">Paper</a> /
+                                    <a href="https://github.com/google-research/kubric">Code</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="perception" data-year="2022" data-selected="true">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/ndf.gif" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body move-up">
+                                <h5 class="title">Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation </h5>
+                                <h6 class="authors">
+                                    <a href="https://anthonysimeonov.github.io/">Anthony Simeonov*</a>,
+                                    <u>Yilun Du*</u>,
+                                    <a href="https://taiya.github.io/">Andrea Tagliasacchi</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a href="https://mcube.mit.edu/">Alberto Rodriguez</a>,
+                                    <a href="https://people.csail.mit.edu/pulkitag/">Pulkit Agrawal<sup>+</sup></a>,
+                                    <a href="https://vsitzmann.github.io/">Vincent Sitzmann<sup>+</sup></a>
+                                </h6>
+                                <p class="info">
+                                    <span href="https://www.icra2022.org/" class="conference">ICRA 2022</span> /
+                                    <a href="https://yilundu.github.io/ndf/">Website</a> /
+                                    <a href="https://arxiv.org/abs/2112.05124">Paper</a> /
+                                    <a href="https://github.com/anthonysimeonov/ndf_robot">Code</a>  /
+                                    <a href="https://colab.research.google.com/drive/16bFIFq_E8mnAVwZ_V2qQiKp4x4D0n1sG?usp=sharing">Colab</a> 
+                                </p>
+                                <span class="note">(First two authors contributed equally; order determined by coin toss. Last two authors equal advising.)</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2021" data-selected="true">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/comet_teaser.gif" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9 move-up">
+                            <div class="pub-card-body">
+                                <h5 class="title">Unsupervised Learning of Compositional Energy Concepts</h5>
+                                <h6 class="authors">
+                                    <u>Yilun Du</u>,
+                                    <a href="http://www.mit.edu/~lishuang/">Shuang Li</a>,
+                                    <a href="https://www.yash-sharma.com/">Yash Sharma</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a>Igor Mordatch</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://nips.cc/Conferences/2021" class="conference">NeurIPS 2021</a> /
+                                    <a href="https://energy-based-model.github.io/comet/">Website</a> /
+                                    <a href="https://arxiv.org/abs/2111.03042">Paper</a> /
+                                    <a href="https://github.com/yilundu/comet">Code</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2021" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/relation.png" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9 move-up">
+                            <div class="pub-card-body">
+                                <h5 class="title">Learning to Compose Visual Relations</h5>
+                                <h6 class="authors">
+                                    <a href="https://nanliu.io/">Nan Liu*</a>,
+                                    <a href="http://www.mit.edu/~lishuang/">Shuang Li*</a>,
+                                    <u>Yilun Du*</u>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://nips.cc/Conferences/2021" class="conference">NeurIPS 2021</a> 
+                                    <span class="highlight">(Spotlight)</span>  /
+                                    <a href="https://ctrlgenworkshop.github.io/accepted_papers.html" class="conference">NeurIPS 2021 Workshop on Controllable Generative Modeling</a>
+                                    <span class="highlight">(Outstanding Paper Award)</span> /
+                                    <a href="https://composevisualrelations.github.io/">Website</a> /
+                                    <a href="https://arxiv.org/abs/2111.09297">Paper</a> /
+                                    <a href="https://github.com/nanlliu/compose-visual-relations">Code</a> /
+                                    <a href="https://news.mit.edu/2021/ai-object-relationships-image-generation-1129">MIT News</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pub-card" data-topic="generative-model" data-year="2021" data-selected="true">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <video src="data/projects/gem_thumbnail.mp4" width="100%" playsinline autoplay muted loop preload/>
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Learning Signal-Agnostic Manifolds of Neural Fields</h5>
+                                <h6 class="authors">
+                                    <u>Yilun Du</u>,
+                                    <a>Katie Collins</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a href="https://vsitzmann.github.io/">Vincent Sitzmann</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://nips.cc/Conferences/2021" class="conference">NeurIPS 2021</a> /
+                                    <a href="https://yilundu.github.io/gem/">Website</a> /
+                                    <a href="https://arxiv.org/abs/2111.06387">Paper</a> /
+                                    <a href="https://github.com/yilundu/gem">Code</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="rl" data-year="2021" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/neural_mmo.jpeg" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">The Neural MMO Platform for Massively Multiagent Research</h5>
+                                <h6 class="authors">
+                                    <a href="https://people.csail.mit.edu/jsuarez/">Joseph Suarez</a>,
+                                    <u>Yilun Du</u>,
+                                    <a>Clare Zhu</a>,
+                                    <a>Igor Mordatch</a>,
+                                    <a href="http://web.mit.edu/phillipi/">Phillip Isola</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://nips.cc/Conferences/2021" class="conference">NeurIPS 2021 Track on Datasets and Benchmarks </a> /
+                                    <a href="https://jsuarez5341.github.io/neural-mmo/build/html/rst/userguide.html">Website</a> /
+                                    <a href="https://openreview.net/forum?id=J0d-I8yFtP">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2021" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/pvd.gif" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">3D Shape Generation and Completion through Point-Voxel Diffusion</h5>
+                                <h6 class="authors">
+                                    <a href="https://alexzhou907.github.io/pvd">Linqi Zhou</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="http://jiajunwu.com">Jiajun Wu</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="http://iccv2021.thecvf.com/home" class="conference">ICCV 2021</a> 
+                                    <span class="highlight">(Oral)</span> /
+                                    <a href="https://alexzhou907.github.io/pvd">Project Page</a> /
+                                    <a href="https://arxiv.org/abs/2104.03670">Paper</a> /
+                                    <a href="https://github.com/alexzhou907/PVD">Code</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="perception" data-year="2021" data-selected="true">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/crl.png" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Curious Representation Learning for Embodied Intelligence</h5>
+                                <h6 class="authors">
+                                    <u>Yilun Du</u>,
+                                    <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a>,
+                                    <a href="http://web.mit.edu/phillipi/">Phillip Isola</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="http://iccv2021.thecvf.com/home" class="conference">ICCV 2021</a>  /
+                                    <a href="https://yilundu.github.io/crl/">Project Page</a> /
+                                    <a href="https://arxiv.org/abs/2105.01060v1">Paper</a>  /
+                                    <a href="https://github.com/yilundu/crl">Code</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="perception" data-year="2021" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/nerflow.gif" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Neural Radiance Flow for 4D View Synthesis and Video Processing</h5>
+                                <h6 class="authors">
+                                    <u>Yilun Du</u>,
+                                    <a>Yinan Zhang</a>,
+                                    <a href="https://kovenyu.com/">Hong-Xing Yu</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a href="http://jiajunwu.com">Jiajun Wu</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="http://iccv2021.thecvf.com/home" class="conference">ICCV 2021</a> /
+                                    <a href="https://arxiv.org/pdf/2012.09790.pdf">Paper</a> /
+                                    <a href="https://yilundu.github.io/nerflow/">Project Page</a> /
+                                    <a href="https://github.com/yilundu/nerflow">Code</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="perception" data-year="2021" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/vehico.png" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Weakly Supervised Human-Object Interaction Detection in Video via Contrastive Spatiotemporal Regions</h5>
+                                <h6 class="authors">
+                                    <a href="https://people.csail.mit.edu/lishuang/">Shuang Li</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a>,
+                                    <a href="https://www.di.ens.fr/~josef/">Josef Sivic</a>,
+                                    <a href="https://research.adobe.com/person/bryan-russell/">Bryan Russell</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="http://iccv2021.thecvf.com/home" class="conference">ICCV 2021</a>  /
+                                    <a href="https://arxiv.org/abs/2110.03562">Paper</a> /
+                                    <a href="https://shuangli-project.github.io/weakly-supervised-human-object-detection-video/">Project Page</a> /
+                                    <a href="https://github.com/ShuangLI59/weakly-supervised-human-object-detection-video">Code</a> /
+                                    <a href="https://shuangli-project.github.io/VHICO-Dataset/">Dataset</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2021" data-selected="true">
+                    <div class="row">
+                        <div class="col-l col-xs-12 col-lg-3">
+                            <img src="data/projects/cd.png" width="100%" />
+                        </div>
+                        <div class="col-r col-xs-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Improved Contrastive Divergence Training of Energy Based Models</h5>
+                                <h6 class="authors">
+                                    <u>Yilun Du</u>,
+                                    <a href="http://www.mit.edu/~lishuang/">Shuang Li</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a>Igor Mordatch</a>
+                                </h6>
+                                <p class="info">
+                                    <span class="conference">ICML 2021</span> /
+                                    <span class="conference">ICLR 2021 EBM Workshop</span> 
+                                    <span class="highlight">(Oral)</span> /
+                                    <a href="https://arxiv.org/pdf/2012.01316.pdf">Paper</a> /
+                                    <a href="https://energy-based-model.github.io/improved-contrastive-divergence/">Project Page</a> /
+                                    <a href="https://github.com/yilundu/improved_contrastive_divergence">Code</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                
+                
+                
+                
+                <div class="pub-card" data-topic="perception" data-year="2021" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-md-12 col-lg-3">
+                            <img src="data/projects/unsupervised_3d.png" width="100%" />
+                        </div>
+                        <div class="col-r col-md-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Unsupervised Discovery of 3D Physical Objects from Video</h5>
+                                <h6 class="authors">
+                                    <u>Yilun Du</u>,
+                                    <a href="http://www.mit.edu/~k2smith/">Kevin Smith</a>,
+                                    <a href="http://www.mit.edu/~tomeru/">Tomer Ulman</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a href="http://jiajunwu.com">Jiajun Wu</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://iclr.cc/Conferences/2021" class="conference">ICLR 2021</a> /
+                                    <a href="https://arxiv.org/abs/2007.12348">Paper</a> /
+                                    <a href="https://github.com/yilundu/podnet">Code</a> /
+                                    <a href="https://yilundu.github.io/podnet/">Project Page</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2020" data-selected="true">
+                    <div class="row">
+                        <div class="col-l col-md-12 col-lg-3">
+                            <img src="data/projects/compositional.png" width="100%" />
+                        </div>
+                        <div class="col-r col-md-12 col-lg-9">
+                            <div class="pub-card-body move-up">
+                                <h5 class="title">Compositional Visual Generation with Energy Based Models</h5>
+                                <h6 class="authors">
+                                    <u>Yilun Du</u>,
+                                    <a href="http://www.mit.edu/~lishuang/">Shuang Li</a>,
+                                    <a>Igor Mordatch</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://nips.cc/Conferences/2020" class="conference">NeurIPS 2020</a>
+                                    <span class="highlight">(Spotlight)</span> /
+                                    <a href="https://arxiv.org/pdf/2004.06030.pdf">Paper</a> /
+                                    <a href="https://energy-based-model.github.io/compositional-generation-inference/">Project Page</a> /
+                                    <a href="https://github.com/yilundu/ebm_compositionality">Code</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="perception" data-year="2020" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-md-12 col-lg-3">
+                            <img src="data/projects/3d_manip.png" width="100%" />
+                        </div>
+                        <div class="col-r col-md-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">A Long Horizon Planning Framework for Manipulating Rigid Pointcloud Objects</h5>
+                                <h6 class="authors">
+                                    <a href="https://anthonysimeonov.github.io/">Anthony Simeonov</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="http://people.csail.mit.edu/beomjoon/">Beomjoon Kim</a>,
+                                    <a href="https://fhogan.github.io/">Francois Hogan</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a href="https://people.csail.mit.edu/pulkitag/">Pulkit Agrawal</a>,
+                                    <a href="https://mcube.mit.edu/">Alberto Rodriguez</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://www.robot-learning.org/" class="conference">CORL 2020</a> /
+                                    <a href="https://arxiv.org/pdf/2011.08177.pdf">Paper</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2020" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-md-12 col-lg-3">
+                            <img src="data/projects/protein.png" width="100%" />
+                        </div>
+                        <div class="col-r col-md-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Energy-based models for atomic-resolution protein conformations</h5>
+                                <h6 class="authors">
+                                    <u>Yilun Du</u>,
+                                    <a>Joshua Meier</a>,
+                                    <a>Jerry Ma</a>,
+                                    <a href="https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php">Rob Fergus</a>,
+                                    <a>Alexander Rives</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://iclr.cc/Conferences/2020" class="conference">ICLR 2020</a>
+                                    <span class="highlight">(Spotlight)</span> /
+                                    <a href="https://sites.google.com/cs.washington.edu/mlcb2020/" class="conference">MLCB 2020</a>
+                                    <span class="highlight">(Oral / Travel Award)</span> /
+                                    <a href="https://arxiv.org/pdf/2004.13167.pdf">Paper</a> /
+                                    <a href="https://github.com/facebookresearch/protein-ebm">Code</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="rl" data-year="2020" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-md-12 col-lg-3">
+                            <img src="data/projects/overfit.png" width="100%" />
+                        </div>
+                        <div class="col-r col-md-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Observational Overfitting in Reinforcement Learning</h5>
+                                <h6 class="authors">
+                                    Xingyou Song,
+                                    <a>Yiding Jiang</a>,
+                                    <u>Yilun Du</u>,
+                                    Behnam Neyshabur
+                                </h6>
+                                <p class="info">
+                                    <a href="https://iclr.cc/Conferences/2020" class="conference">ICLR 2020</a> /
+                                    <a href="https://arxiv.org/pdf/1912.02975.pdf">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2019" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-md-12 col-lg-3">
+                            <img src="data/projects/ebm_plan.png" width="100%" />
+                        </div>
+                        <div class="col-r col-md-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Model Based Planning with Energy Based Models</h5>
+                                <h6 class="authors">
+                                    <u>Yilun Du</u>,
+                                    <a>Toru Lin</a>,
+                                    <a>Igor Mordatch</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://sites.google.com/robot-learning.org/corl2019" class="conference">CORL 2019</a> /
+                                    <a href="https://sites.google.com/view/mbrl-icml2019/home" class="conference">ICML MBRL Workshop 2019</a>
+                                    <span class="highlight">(Oral)</span> /
+                                    <a href="https://arxiv.org/pdf/1909.06878.pdf">Paper</a> /
+                                    <a href="https://github.com/yilundu/model_based_planning_ebm">Code</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="generative-model" data-year="2019" data-selected="true">
+                    <div class="row">
+                        <div class="col-l col-md-12 col-lg-3">
+                            <video src="data/projects/igebm.mp4" width="100%" playsinline autoplay muted loop preload/>
+                        </div>
+                        <div class="col-r col-md-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Implicit Generation and Generalization with Energy Based Models</h5>
+                                <h6 class="authors">
+                                    <u>Yilun Du</u>,
+                                    <a>Igor Mordatch</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://nips.cc/Conferences/2019" class="conference">NeurIPS 2019</a>
+                                    <span class="highlight">(Spotlight)</span> /
+                                    <a href="https://arxiv.org/pdf/1903.08689.pdf">Paper</a> /
+                                    <a href="https://github.com/openai/ebm_code_release">Code</a> /
+                                    <a href="https://openai.com/blog/energy-based-models/">OpenAI Blog</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="rl" data-year="2019" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-md-12 col-lg-3">
+                            <img src="data/projects/task_agnostic.png" width="100%" />
+                        </div>
+                        <div class="col-r col-md-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Task-Agnostic Dynamics Priors for Deep Reinforcement Learning</h5>
+                                <h6 class="authors">
+                                    <u>Yilun Du</u>,
+                                    <a href="https://www.cs.princeton.edu/~karthikn/">Karthik Narasimhan</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://icml.cc/Conferences/2019" class="conference">ICML 2019</a> /
+                                    <a href="https://arxiv.org/pdf/1905.04819.pdf">Paper</a> /
+                                    <a href="https://github.com/yilundu/task_agnostic_dynamics_prior">Code</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="rl" data-year="2019" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-md-12 col-lg-3">
+                            <img src="data/projects/neuralmmo.png" width="100%" />
+                        </div>
+                        <div class="col-r col-md-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Neural MMO: A massively multiplayer game environment for intelligent agents</h5>
+                                <h6 class="authors">
+                                    <a>Joseph Suarez</a>,
+                                    <u>Yilun Du</u>,
+                                    <a href="http://web.mit.edu/phillipi/">Phillip Isola</a>,
+                                    <a>Igor Mordatch</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://aamas2020.conference.auckland.ac.nz/" class="conference">AAMAS 2020 Extended Abstract</a> /
+                                    <a href="https://arxiv.org/abs/2001.12004">Paper</a> /
+                                    <a href="https://github.com/openai/neural-mmo">Code</a> /
+                                    <a href="https://openai.com/blog/neural-mmo/">OpenAI Blog</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pub-card" data-topic="perception" data-year="2018" data-selected="false">
+                    <div class="row">
+                        <div class="col-l col-md-12 col-lg-3">
+                            <img src="data/projects/stability.png" width="100%" />
+                        </div>
+                        <div class="col-r col-md-12 col-lg-9">
+                            <div class="pub-card-body">
+                                <h5 class="title">Learning to Exploit Stability for 3D Scene Parsing</h5>
+                                <h6 class="authors">
+                                    <u>Yilun Du</u>,
+                                    <a href="http://zhijianliu.com/">Zhijian Liu</a>,
+                                    <a href="https://www.cs.bham.ac.uk/~basevhra/">Hector Basevi</a>,
+                                    <a href="https://www.cs.bham.ac.uk/~leonarda/">Ales Leonardis</a>,
+                                    <a href="https://billf.mit.edu/">William T. Freeman</a>,
+                                    <a href="http://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>,
+                                    <a href="http://jiajunwu.com">Jiajun Wu</a>
+                                </h6>
+                                <p class="info">
+                                    <a href="https://nips.cc/Conferences/2018" class="conference">NeurIPS 2018</a> /
+                                    <a href="https://papers.nips.cc/paper/7444-learning-to-exploit-stability-for-3d-scene-parsing.pdf">Paper</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
