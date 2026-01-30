@@ -27,19 +27,32 @@ a:hover{color:#bc6262}
 #background{position:fixed;top:0;overflow:hidden;height:0}
 #wave-canvas{display:block;position:relative;top:0;left:5%;width:55%;min-width:850px;height:150px;border:0}
 #main{z-index:2;margin:0 auto;position:absolute;top:1%;width:100%;min-width:240px;text-align:center;}
+
 #main-content{background:rgba(238,238,238,0.95);padding:0;text-align:center;cursor:default;text-align:center;}
 #main-content{margin-left:6.5104167%;width:86.9791667%;}
 @media (min-width: 768px) {
-    #main-content{width:75%;min-width:668px;margin:0 auto}
+    #main-content{width:75%;min-width:668px;margin:0 auto} /* margin-left:50px */
 }
 @media (min-width: 1200px) {
     #main-content{width:75%;max-width:900px;margin:0 auto}
 }
+/*#main-content {
+    width:86.9791667%;
+    margin: 0 auto;
+}
+@media (min-width: 768px) {
+    #main-content{width:66%;min-width:668px;}
+}
+@media (min-width: 1200px) {
+    #main-content{width:66%;max-width:900px;}
+}*/
 
+/* Luo's starts */
 .img-misc{margin-right:5px; margin-bottom:0px}
 .img-misc-mt{margin-top:12px;}
 .img-misc-mb{margin-bottom:12px;}
-
+/* Luo's ends */
+/* Avatar, Name, etc. */
 #main-content-container{margin:0 auto;padding:15px 0em 15px 0em;max-width:1080px;}
 @media (min-width: 768px) {
     #main-content-container{padding:15px 0 15px 2em;}
@@ -51,7 +64,7 @@ a:hover{color:#bc6262}
 #main-content-container .col-avatar .avatar{z-index:100;width:150px;height:150px;margin-top:0px;border-radius:100%;box-shadow:0 0 0 0.3em #fff;opacity:1;}
 
 #main-content-container .col-info{height:100%;align-items:center;display:-webkit-flex;height:150px}
-#main-info-container{padding-top:15px}
+#main-info-container{padding-top:15px} /* around the name */
 #main-info-container .col-name{text-align:center}
 #main-info-container .col-name .textbox-info{display:inline-block;margin:0 auto;text-align:left}
 #main-info-container .col-name .name{margin:0;color:#566c7f;font-size:1.85em;font-family:"Source Sans Pro",Helvetica,sans-serif}
@@ -65,12 +78,14 @@ a:hover{color:#bc6262}
 #main-info-container .col-link li a.border{border:1px solid #ccc;border-radius:100%;}
 #main-info-container .col-link li a.padding{padding:0px 0px;font-size:22px}
 
+/* Other */
 #main-more-container{background:#ffffff;width:100%;padding:0 30px}
 
 #main-bio-container{margin:auto;padding: 0 0em;max-width:1080px;text-align:left;padding-top:30px;max-width:1080px;font-size:1rem;line-height:1.4}
 #main-bio-container .subtitle{margin-top:30px;color:#566c7f}
 
 #misc-container{margin:0 0em;padding: 0 0em;max-width:1080px;text-align:left;padding-top:30px;max-width:1080px;font-size:1rem;line-height:1.4}
+/* #misc-container .subtitle{margin-top:30px;color:#566c7f} */
 
 #main-pub-container{margin:auto;padding: 0 0em;max-width:1080px;text-align:left;padding-top:30px;max-width:1080px}
 #main-pub-container .subtitle{color:#566c7f;}
@@ -94,7 +109,6 @@ a:hover{color:#bc6262}
 #main-pub-card-container .pub-card .col-l{text-align:center;padding-top:10px}
 #main-pub-card-container .pub-card .col-r{padding-top:10px}
 #main-pub-card-container .pub-card img{width:100%;margin:0 auto}
-#main-pub-card-container .pub-card video{width:100%;margin:0 auto}
 #main-pub-card-container .pub-card-body{width:100%;background:transparent;padding-left:0px}
 #main-pub-card-container .pub-card .title{font-weight:600;font-size:1rem;margin-bottom:4px;line-height:1.4}
 #main-pub-card-container .pub-card .authors{font-weight:400;color:#666666;margin-bottom:4px;line-height:1.4}
@@ -150,7 +164,6 @@ a:hover{color:#bc6262}
                 </div>
             </div>
         </div>
-    </div>
 
     <div id="main-more-container">
         <div id="main-bio-container">
@@ -409,7 +422,6 @@ a:hover{color:#bc6262}
                 </div>
             </div>
         </div>
-
     </div>
 </div>
 
